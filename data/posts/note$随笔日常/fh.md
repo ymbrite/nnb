@@ -1,7 +1,7 @@
 ---
 title: '战马'
 description: '这是一篇文章'
-image: ''
+image: 'https://drive.nanven.cn/api?path=/blog-images/test.png&raw=true'
 date: '2026.01.07'
 ---
 
